@@ -176,3 +176,7 @@ EMAIL_USE_TLS = os.getenv('E_TLS')
 EMAIL_PORT = os.getenv('E_PORT')
 EMAIL_HOST_USER = os.getenv('E_USER')
 EMAIL_HOST_PASSWORD = os.getenv('E_PASSWORD')
+
+"""
+OK
+"""
