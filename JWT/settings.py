@@ -177,6 +177,3 @@ EMAIL_PORT = os.getenv('E_PORT')
 EMAIL_HOST_USER = os.getenv('E_USER')
 EMAIL_HOST_PASSWORD = os.getenv('E_PASSWORD')
 
-"""
-Hemil Bro
-"""
